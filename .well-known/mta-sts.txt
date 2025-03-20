@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx1.aidanjosiah.com
-mx: mx2.aidanjosiah.com
+mx: mx1.forwardemail.net
+mx: mx2.forwardemail.net
 max_age: 2419200
